@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @htmono
 
-This is my personal Github profile to store all my projects and learn to use git while doing it. 
+This is my personal Github profile to store (some of) my projects.
 
 <!---
 htmono/htmono is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
